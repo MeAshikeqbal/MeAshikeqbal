@@ -23,7 +23,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          skip_fetch: true
           commit_message: Update generated README
           branch: main
           commit_user_name: readme-scribe 🤖
