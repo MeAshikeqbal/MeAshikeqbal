@@ -39,7 +39,7 @@ jobs:
           user: MeAshikeqbal
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: America/Chicago
+          config_timezone: Asia/kolkata
           plugin_gists: yes
           plugin_habits: yes
           plugin_habits_charts_type: classic
