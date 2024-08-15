@@ -58,22 +58,3 @@ jobs:
           plugin_wakatime_languages_ignored: markdown, plaintext, text, xml, yaml, JSON
           plugin_wakatime_days: 365
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
-          
-      - name: readme-scribe
-        uses: muesli/readme-scribe@master
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
-        with:
-          template: "./README.gtpl"
-          writeTo: "./README.md"
-      
-      - name: Commit changes
-        uses: stefanzweifel/git-auto-commit-action@v4
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          commit_message: Update generated README
-          branch: main
-          commit_user_name: readme-scribe 🤖
-          commit_user_email: actions@github.com
-          commit_author: readme-scribe 🤖 <actions@github.com>
