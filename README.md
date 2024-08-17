@@ -8,9 +8,9 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [MeAshikeqbal/mc-status-page](https://github.com/MeAshikeqbal/mc-status-page) - all in one status page for Minecraft Server
 - [MeAshikeqbal/jhs](https://github.com/MeAshikeqbal/jhs) - A website for my high school
 - [MeAshikeqbal/bluebox](https://github.com/MeAshikeqbal/bluebox) - A E2E encrepted web3 Chat app
-- [MeAshikeqbal/mc-status-page](https://github.com/MeAshikeqbal/mc-status-page) - all in one status page for Minecraft Server
 - [MeAshikeqbal/NoteShare](https://github.com/MeAshikeqbal/NoteShare) - 
 - [MeAshikeqbal/portfolio](https://github.com/MeAshikeqbal/portfolio) - 
 ### 🌱 My latest projects
@@ -22,11 +22,11 @@
 - [MeAshikeqbal/NoteShare](https://github.com/MeAshikeqbal/NoteShare) - 
 ### 🔨 My recent Pull Requests
 
+- [chore: Update .dockerignore, .gitignore, docker-compose.yml, and envi…](https://github.com/MeAshikeqbal/mc-status-page/pull/8) on [MeAshikeqbal/mc-status-page](https://github.com/MeAshikeqbal/mc-status-page)
 - [chore: Update Minecraft Server Status link in README.md](https://github.com/MeAshikeqbal/mc-status-page/pull/6) on [MeAshikeqbal/mc-status-page](https://github.com/MeAshikeqbal/mc-status-page)
 - [chore: Update docker-compose.yml and environment variables for Java a…](https://github.com/MeAshikeqbal/mc-status-page/pull/5) on [MeAshikeqbal/mc-status-page](https://github.com/MeAshikeqbal/mc-status-page)
 - [Merge pull request #3 from MeAshikeqbal/main](https://github.com/MeAshikeqbal/mc-status-page/pull/4) on [MeAshikeqbal/mc-status-page](https://github.com/MeAshikeqbal/mc-status-page)
 - [update dev](https://github.com/MeAshikeqbal/mc-status-page/pull/3) on [MeAshikeqbal/mc-status-page](https://github.com/MeAshikeqbal/mc-status-page)
-- [Merging dev branch](https://github.com/MeAshikeqbal/mc-status-page/pull/2) on [MeAshikeqbal/mc-status-page](https://github.com/MeAshikeqbal/mc-status-page)
 ### ⭐ Recent Stars
 
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
