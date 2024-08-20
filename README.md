@@ -8,9 +8,9 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [MeAshikeqbal/bluebox](https://github.com/MeAshikeqbal/bluebox) - A E2E encrepted web3 Chat app
 - [MeAshikeqbal/mc-status-page](https://github.com/MeAshikeqbal/mc-status-page) - all in one status page for Minecraft Server
 - [MeAshikeqbal/jhs](https://github.com/MeAshikeqbal/jhs) - A website for my high school
-- [MeAshikeqbal/bluebox](https://github.com/MeAshikeqbal/bluebox) - A E2E encrepted web3 Chat app
 - [MeAshikeqbal/NoteShare](https://github.com/MeAshikeqbal/NoteShare) - 
 - [MeAshikeqbal/portfolio](https://github.com/MeAshikeqbal/portfolio) - 
 ### 🌱 My latest projects
