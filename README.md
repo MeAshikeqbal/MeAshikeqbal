@@ -29,11 +29,11 @@
 - [update dev](https://github.com/MeAshikeqbal/mc-status-page/pull/3) on [MeAshikeqbal/mc-status-page](https://github.com/MeAshikeqbal/mc-status-page)
 ### ⭐ Recent Stars
 
+- [HamishMW/portfolio](https://github.com/HamishMW/portfolio) - My personal portfolio website built using React and three js
+- [MiraHikari/portfolio](https://github.com/MiraHikari/portfolio) - A minimalist portfolio configurable via one JSON
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia &#43; Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
 - [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-- [ajnart/homarr](https://github.com/ajnart/homarr) - Customizable browser&#39;s home page to interact with your homeserver&#39;s Docker containers (e.g. Sonarr/Radarr)
-- [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.
 ### 📫 How to reach me:
   - Website   : <https://itsashik.info>
   - Email     : <hello@itsashik.info>
