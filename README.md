@@ -29,11 +29,11 @@
 - [update dev](https://github.com/MeAshikeqbal/mc-status-page/pull/3) on [MeAshikeqbal/mc-status-page](https://github.com/MeAshikeqbal/mc-status-page)
 ### ⭐ Recent Stars
 
+- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 - [sanity-io/nextjs-blog-cms-sanity-v3](https://github.com/sanity-io/nextjs-blog-cms-sanity-v3) - A Next.js Blog with a Native Authoring Experience
 - [HamishMW/portfolio](https://github.com/HamishMW/portfolio) - My personal portfolio website built using React and three js
 - [MiraHikari/portfolio](https://github.com/MiraHikari/portfolio) - A minimalist portfolio configurable via one JSON
 - [typesense/typesense](https://github.com/typesense/typesense) - Open Source alternative to Algolia &#43; Pinecone and an Easier-to-Use alternative to ElasticSearch ⚡ 🔍 ✨ Fast, typo tolerant, in-memory fuzzy Search Engine for building delightful search experiences
-- [muesli/readme-scribe](https://github.com/muesli/readme-scribe) - A GitHub Action that automatically generates &amp; updates markdown content (like your README.md)
 ### 📫 How to reach me:
   - Website   : <https://itsashik.info>
   - Email     : <hello@itsashik.info>
