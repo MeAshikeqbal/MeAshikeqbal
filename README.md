@@ -8,10 +8,10 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [MeAshikeqbal/portfolio](https://github.com/MeAshikeqbal/portfolio) - 
 - [MeAshikeqbal/mc-status-page](https://github.com/MeAshikeqbal/mc-status-page) - all in one status page for Minecraft Server
 - [MeAshikeqbal/bluebox](https://github.com/MeAshikeqbal/bluebox) - 
 - [MeAshikeqbal/jhs](https://github.com/MeAshikeqbal/jhs) - A website for my high school
-- [MeAshikeqbal/portfolio](https://github.com/MeAshikeqbal/portfolio) - 
 - [MeAshikeqbal/doj-chat-bot](https://github.com/MeAshikeqbal/doj-chat-bot) - 
 ### 🌱 My latest projects
 
@@ -22,11 +22,11 @@
 - [MeAshikeqbal/jhs](https://github.com/MeAshikeqbal/jhs) - A website for my high school
 ### 🔨 My recent Pull Requests
 
+- [This PR represents a complete overhaul of my portfolio website, featuring a fresh design, optimized performance, and improved user experience](https://github.com/MeAshikeqbal/portfolio/pull/14) on [MeAshikeqbal/portfolio](https://github.com/MeAshikeqbal/portfolio)
 - [chore: Update .dockerignore, .gitignore, docker-compose.yml, and envi…](https://github.com/MeAshikeqbal/mc-status-page/pull/8) on [MeAshikeqbal/mc-status-page](https://github.com/MeAshikeqbal/mc-status-page)
 - [chore: Update Minecraft Server Status link in README.md](https://github.com/MeAshikeqbal/mc-status-page/pull/6) on [MeAshikeqbal/mc-status-page](https://github.com/MeAshikeqbal/mc-status-page)
 - [chore: Update docker-compose.yml and environment variables for Java a…](https://github.com/MeAshikeqbal/mc-status-page/pull/5) on [MeAshikeqbal/mc-status-page](https://github.com/MeAshikeqbal/mc-status-page)
 - [Merge pull request #3 from MeAshikeqbal/main](https://github.com/MeAshikeqbal/mc-status-page/pull/4) on [MeAshikeqbal/mc-status-page](https://github.com/MeAshikeqbal/mc-status-page)
-- [update dev](https://github.com/MeAshikeqbal/mc-status-page/pull/3) on [MeAshikeqbal/mc-status-page](https://github.com/MeAshikeqbal/mc-status-page)
 ### ⭐ Recent Stars
 
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts
