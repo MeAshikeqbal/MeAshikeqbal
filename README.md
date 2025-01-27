@@ -30,10 +30,10 @@
 ### ⭐ Recent Stars
 
 - [divanov11/Nextjs-Appwrite-Auth-SSR](https://github.com/divanov11/Nextjs-Appwrite-Auth-SSR) - 
-- [MeAshikeqbal/portfolio](https://github.com/MeAshikeqbal/portfolio) - My personal portfolio and blog
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition) 
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
+- [HamishMW/portfolio](https://github.com/HamishMW/portfolio) - My personal portfolio website built using React and three js
 ### 📫 How to reach me:
   - Website   : <https://itsashik.info>
   - Email     : <hello@itsashik.info>
