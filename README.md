@@ -22,11 +22,11 @@
 - [MeAshikeqbal/dotfiles-arch](https://github.com/MeAshikeqbal/dotfiles-arch) - 
 ### 🔨 My recent Pull Requests
 
+- [Dev](https://github.com/MeAshikeqbal/bluebox/pull/7) on [MeAshikeqbal/bluebox](https://github.com/MeAshikeqbal/bluebox)
+- [Dev](https://github.com/MeAshikeqbal/bluebox/pull/6) on [MeAshikeqbal/bluebox](https://github.com/MeAshikeqbal/bluebox)
 - [This PR represents a complete overhaul of my portfolio website, featuring a fresh design, optimized performance, and improved user experience](https://github.com/MeAshikeqbal/portfolio/pull/14) on [MeAshikeqbal/portfolio](https://github.com/MeAshikeqbal/portfolio)
 - [chore: Update .dockerignore, .gitignore, docker-compose.yml, and envi…](https://github.com/MeAshikeqbal/mc-status-page/pull/8) on [MeAshikeqbal/mc-status-page](https://github.com/MeAshikeqbal/mc-status-page)
 - [chore: Update Minecraft Server Status link in README.md](https://github.com/MeAshikeqbal/mc-status-page/pull/6) on [MeAshikeqbal/mc-status-page](https://github.com/MeAshikeqbal/mc-status-page)
-- [chore: Update docker-compose.yml and environment variables for Java a…](https://github.com/MeAshikeqbal/mc-status-page/pull/5) on [MeAshikeqbal/mc-status-page](https://github.com/MeAshikeqbal/mc-status-page)
-- [Merge pull request #3 from MeAshikeqbal/main](https://github.com/MeAshikeqbal/mc-status-page/pull/4) on [MeAshikeqbal/mc-status-page](https://github.com/MeAshikeqbal/mc-status-page)
 ### ⭐ Recent Stars
 
 - [ankit12rajak/refresko-it-events](https://github.com/ankit12rajak/refresko-it-events) - 
