@@ -8,18 +8,18 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [MeAshikeqbal/menu](https://github.com/MeAshikeqbal/menu) - 
 - [MeAshikeqbal/get-a-date](https://github.com/MeAshikeqbal/get-a-date) - Valentine Link Generator ❤️ – A fun and interactive way to ask someone out for Valentine&#39;s Day! Create a personalized invite link, send it secretly or with your name, and add GIFs, emojis, or even an AI-generated love poem. With countdowns, polls, and fun rejection memes, this app makes confessing your feelings exciting and unforgettable! 💌✨
 - [MeAshikeqbal/bluebox](https://github.com/MeAshikeqbal/bluebox) - 
-- [MeAshikeqbal/doj-chat-bot](https://github.com/MeAshikeqbal/doj-chat-bot) - 
 - [MeAshikeqbal/mc-status-page](https://github.com/MeAshikeqbal/mc-status-page) - all in one status page for Minecraft Server
 - [MeAshikeqbal/jhs](https://github.com/MeAshikeqbal/jhs) - A website for my high school
 ### 🌱 My latest projects
 
+- [MeAshikeqbal/menu](https://github.com/MeAshikeqbal/menu) - 
 - [MeAshikeqbal/get-a-date](https://github.com/MeAshikeqbal/get-a-date) - Valentine Link Generator ❤️ – A fun and interactive way to ask someone out for Valentine&#39;s Day! Create a personalized invite link, send it secretly or with your name, and add GIFs, emojis, or even an AI-generated love poem. With countdowns, polls, and fun rejection memes, this app makes confessing your feelings exciting and unforgettable! 💌✨
 - [MeAshikeqbal/bluebox](https://github.com/MeAshikeqbal/bluebox) - 
 - [MeAshikeqbal/doj-chat-bot](https://github.com/MeAshikeqbal/doj-chat-bot) - 
 - [MeAshikeqbal/mc-status-page](https://github.com/MeAshikeqbal/mc-status-page) - all in one status page for Minecraft Server
-- [MeAshikeqbal/dotfiles-arch](https://github.com/MeAshikeqbal/dotfiles-arch) - 
 ### 🔨 My recent Pull Requests
 
 - [Dev](https://github.com/MeAshikeqbal/bluebox/pull/7) on [MeAshikeqbal/bluebox](https://github.com/MeAshikeqbal/bluebox)
