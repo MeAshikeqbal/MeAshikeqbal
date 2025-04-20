@@ -24,7 +24,6 @@
 
 - [Dev](https://github.com/MeAshikeqbal/bluebox/pull/7) on [MeAshikeqbal/bluebox](https://github.com/MeAshikeqbal/bluebox)
 - [Dev](https://github.com/MeAshikeqbal/bluebox/pull/6) on [MeAshikeqbal/bluebox](https://github.com/MeAshikeqbal/bluebox)
-- [This PR represents a complete overhaul of my portfolio website, featuring a fresh design, optimized performance, and improved user experience](https://github.com/MeAshikeqbal/portfolio/pull/14) on [MeAshikeqbal/portfolio](https://github.com/MeAshikeqbal/portfolio)
 ### ⭐ Recent Stars
 
 - [ankit12rajak/refresko-it-events](https://github.com/ankit12rajak/refresko-it-events) - 
