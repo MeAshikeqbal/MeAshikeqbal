@@ -32,5 +32,5 @@
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition) 
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 ### 📫 How to reach me:
-  - Website   : <https://itsashik.info>
-  - Email     : <hello@itsashik.info>
+  - Website   : <https://itsashik.dev>
+  - Email     : <hello@itsashik.dev>
