@@ -23,5 +23,5 @@
 - [{{ .Repo.Name }}]({{ .Repo.URL }}) - {{ .Repo.Description }}
 {{- end }}
 ### 📫 How to reach me:
-  - Website   : <https://itsashik.info>
-  - Email     : <hello@itsashik.info>
+  - Website   : <https://itsashik.dev>
+  - Email     : <hello@itsashik.dev>
