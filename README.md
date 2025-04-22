@@ -23,7 +23,6 @@
 ### 🔨 My recent Pull Requests
 
 - [Dev](https://github.com/MeAshikeqbal/bluebox/pull/7) on [MeAshikeqbal/bluebox](https://github.com/MeAshikeqbal/bluebox)
-- [Dev](https://github.com/MeAshikeqbal/bluebox/pull/6) on [MeAshikeqbal/bluebox](https://github.com/MeAshikeqbal/bluebox)
 ### ⭐ Recent Stars
 
 - [ankit12rajak/refresko-it-events](https://github.com/ankit12rajak/refresko-it-events) - 
