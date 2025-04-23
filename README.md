@@ -10,14 +10,14 @@
 
 - [MeAshikeqbal/portfolio](https://github.com/MeAshikeqbal/portfolio) - My personal portfolio and blog
 - [MeAshikeqbal/get-a-date](https://github.com/MeAshikeqbal/get-a-date) - Valentine Link Generator ❤️ – A fun and interactive way to ask someone out for Valentine&#39;s Day! Create a personalized invite link, send it secretly or with your name, and add GIFs, emojis, or even an AI-generated love poem. With countdowns, polls, and fun rejection memes, this app makes confessing your feelings exciting and unforgettable! 💌✨
-- [MeAshikeqbal/menu](https://github.com/MeAshikeqbal/menu) - 
+- [MeAshikeqbal/menu](https://github.com/MeAshikeqbal/menu) - Menu is a simple single-page application built with Svelte that displays menu items with their names and prices. The project serves as a straightforward digital menu system that could be used by restaurants, cafes, or any food service business to manage and display their offerings.
 - [MeAshikeqbal/jhs](https://github.com/MeAshikeqbal/jhs) - A website for my high school
-- [MeAshikeqbal/bluebox](https://github.com/MeAshikeqbal/bluebox) - 
+- [MeAshikeqbal/bluebox](https://github.com/MeAshikeqbal/bluebox) - Bluebox is an innovative messaging platform built with Svelte and Gun.js that prioritizes privacy and security through end-to-end encryption (E2E) and decentralized communication. This privacy-focused chat application empowers users to communicate securely without compromising their personal data
 ### 🌱 My latest projects
 
-- [MeAshikeqbal/menu](https://github.com/MeAshikeqbal/menu) - 
+- [MeAshikeqbal/menu](https://github.com/MeAshikeqbal/menu) - Menu is a simple single-page application built with Svelte that displays menu items with their names and prices. The project serves as a straightforward digital menu system that could be used by restaurants, cafes, or any food service business to manage and display their offerings.
 - [MeAshikeqbal/get-a-date](https://github.com/MeAshikeqbal/get-a-date) - Valentine Link Generator ❤️ – A fun and interactive way to ask someone out for Valentine&#39;s Day! Create a personalized invite link, send it secretly or with your name, and add GIFs, emojis, or even an AI-generated love poem. With countdowns, polls, and fun rejection memes, this app makes confessing your feelings exciting and unforgettable! 💌✨
-- [MeAshikeqbal/bluebox](https://github.com/MeAshikeqbal/bluebox) - 
+- [MeAshikeqbal/bluebox](https://github.com/MeAshikeqbal/bluebox) - Bluebox is an innovative messaging platform built with Svelte and Gun.js that prioritizes privacy and security through end-to-end encryption (E2E) and decentralized communication. This privacy-focused chat application empowers users to communicate securely without compromising their personal data
 - [MeAshikeqbal/doj-chat-bot](https://github.com/MeAshikeqbal/doj-chat-bot) - 
 - [MeAshikeqbal/mc-status-page](https://github.com/MeAshikeqbal/mc-status-page) - all in one status page for Minecraft Server
 ### 🔨 My recent Pull Requests
