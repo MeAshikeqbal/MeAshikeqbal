@@ -22,7 +22,6 @@
 - [MeAshikeqbal/mc-status-page](https://github.com/MeAshikeqbal/mc-status-page) - all in one status page for Minecraft Server
 ### 🔨 My recent Pull Requests
 
-- [Dev](https://github.com/MeAshikeqbal/bluebox/pull/7) on [MeAshikeqbal/bluebox](https://github.com/MeAshikeqbal/bluebox)
 ### ⭐ Recent Stars
 
 - [ankit12rajak/refresko-it-events](https://github.com/ankit12rajak/refresko-it-events) - 
