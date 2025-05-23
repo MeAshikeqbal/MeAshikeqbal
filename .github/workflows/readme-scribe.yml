@@ -7,8 +7,8 @@ on:
 
 jobs:
   markscribe:
-    runs-on: self-hosted
-
+    runs-on: ubuntu-latest
+    
     steps:
       - uses: actions/checkout@master
 
