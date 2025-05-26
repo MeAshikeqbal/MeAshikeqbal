@@ -24,11 +24,11 @@
 
 ### ⭐ Recent Stars
 
+- [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
 - [ankit12rajak/refresko-it-events](https://github.com/ankit12rajak/refresko-it-events) - 
 - [divanov11/Nextjs-Appwrite-Auth-SSR](https://github.com/divanov11/Nextjs-Appwrite-Auth-SSR) - 
 - [tteck/Proxmox](https://github.com/tteck/Proxmox) - Proxmox VE Helper-Scripts
 - [community-scripts/ProxmoxVE](https://github.com/community-scripts/ProxmoxVE) - Proxmox VE Helper-Scripts (Community Edition) 
-- [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.
 ### 📫 How to reach me:
   - Website   : <https://itsashik.dev>
   - Email     : <hello@itsashik.dev>
