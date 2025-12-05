@@ -8,11 +8,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [MeAshikeqbal/mc-status-page](https://github.com/MeAshikeqbal/mc-status-page) - all in one status page for Minecraft Server
 - [MeAshikeqbal/tiny-link](https://github.com/MeAshikeqbal/tiny-link) - 
 - [MeAshikeqbal/MeetGrid](https://github.com/MeAshikeqbal/MeetGrid) - 
 - [MeAshikeqbal/portfolio](https://github.com/MeAshikeqbal/portfolio) - My personal portfolio and blog
 - [MeAshikeqbal/get-a-date](https://github.com/MeAshikeqbal/get-a-date) - Valentine Link Generator ❤️ – A fun and interactive way to ask someone out for Valentine&#39;s Day! Create a personalized invite link, send it secretly or with your name, and add GIFs, emojis, or even an AI-generated love poem. With countdowns, polls, and fun rejection memes, this app makes confessing your feelings exciting and unforgettable! 💌✨
-- [Arogify/.github](https://github.com/Arogify/.github) - 
 ### 🌱 My latest projects
 
 - [MeAshikeqbal/tiny-link](https://github.com/MeAshikeqbal/tiny-link) - 
