@@ -22,6 +22,7 @@
 - [MeAshikeqbal/get-a-date](https://github.com/MeAshikeqbal/get-a-date) - Valentine Link Generator ❤️ – A fun and interactive way to ask someone out for Valentine&#39;s Day! Create a personalized invite link, send it secretly or with your name, and add GIFs, emojis, or even an AI-generated love poem. With countdowns, polls, and fun rejection memes, this app makes confessing your feelings exciting and unforgettable! 💌✨
 ### 🔨 My recent Pull Requests
 
+- [feat: enhance UI with smooth scrolling, optimized animations, and responsive design adjustments](https://github.com/MeAshikeqbal/yearbook/pull/1) on [MeAshikeqbal/yearbook](https://github.com/MeAshikeqbal/yearbook)
 - [Codeblock](https://github.com/MeAshikeqbal/portfolio/pull/63) on [MeAshikeqbal/portfolio](https://github.com/MeAshikeqbal/portfolio)
 ### ⭐ Recent Stars
 
