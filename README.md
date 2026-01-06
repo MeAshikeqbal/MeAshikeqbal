@@ -23,7 +23,6 @@
 ### 🔨 My recent Pull Requests
 
 - [feat: enhance UI with smooth scrolling, optimized animations, and responsive design adjustments](https://github.com/MeAshikeqbal/yearbook/pull/1) on [MeAshikeqbal/yearbook](https://github.com/MeAshikeqbal/yearbook)
-- [Codeblock](https://github.com/MeAshikeqbal/portfolio/pull/63) on [MeAshikeqbal/portfolio](https://github.com/MeAshikeqbal/portfolio)
 ### ⭐ Recent Stars
 
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
