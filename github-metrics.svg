@@ -229,19 +229,19 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
+                            <span class="diff-handle">MeAshikeqbal/nextjs-commerce</span>
+                        </div>
+                        <div class="field">
+                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
+                            </svg>
                             <span class="diff-handle">MeAshikeqbal/get-a-date</span>
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                             </svg>
-                            <span class="diff-handle">MeAshikeqbal/bluebox</span>
-                        </div>
-                        <div class="field">
-                            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
-                            </svg>
-                            <span class="diff-handle">MeAshikeqbal/doj-chat-bot</span>
+                            <span class="diff-handle">MeAshikeqbal/Disaster-Management-Portal</span>
                         </div>
                     </section>
                     <section>
@@ -254,6 +254,18 @@
                             <div class="diff-stats">
                                 <span class="added"> +9.66k</span>
                                 <span class="deleted">   -379</span>
+                            </div>
+                            <span> </span>
+                        </div>
+                        <div class="field">
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box added"></div>
+                            <div class="diff-box deleted"></div>
+                            <div class="diff-stats">
+                                <span class="added"> +5.87k</span>
+                                <span class="deleted">    -72</span>
                             </div>
                             <span> </span>
                         </div>
@@ -276,20 +288,8 @@
                             <div class="diff-box deleted"></div>
                             <div class="diff-box deleted"></div>
                             <div class="diff-stats">
-                                <span class="added">   +255</span>
-                                <span class="deleted">   -303</span>
-                            </div>
-                            <span> </span>
-                        </div>
-                        <div class="field">
-                            <div class="diff-box added"></div>
-                            <div class="diff-box added"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-box deleted"></div>
-                            <div class="diff-stats">
-                                <span class="added">    +99</span>
-                                <span class="deleted">   -112</span>
+                                <span class="added">   +117</span>
+                                <span class="deleted">   -127</span>
                             </div>
                             <span> </span>
                         </div>
@@ -384,8 +384,8 @@
                                 <text fill="currentColor" x="-9" dy="0.32em">−8.0k</text>
                             </g>
                         </g>
-                        <path d="M39,140.5L98.872,140.5L107.426,140.5L115.979,140.5L124.532,140.5L133.085,140.5L141.638,140.5L175.851,140.5L184.404,140.5L192.957,140.5L218.617,140.5L227.17,140.5L235.723,140.5L244.277,140.5L252.83,140.5L261.383,140.5L269.936,140.5L278.489,140.5L287.043,140.5L295.596,140.5L406.787,140.5L415.34,140.5L423.894,140.5L432.447,140.5L441,140.5L441,139.85L432.447,139.85L423.894,138.922L415.34,129.438L406.787,5L295.596,139.231L287.043,137.359L278.489,138.226L269.936,140.02L261.383,140.407L252.83,132.068L244.277,140.252L235.723,139.804L227.17,138.845L218.617,140.407L192.957,135.843L184.404,140.175L175.851,139.092L141.638,139.092L133.085,139.603L124.532,139.912L115.979,138.86L107.426,139.154L98.872,140.252L39,140.438Z" fill="rgb(63, 185, 80)"/>
-                        <path d="M39,140.5L98.872,140.5L107.426,140.5L115.979,140.5L124.532,140.5L133.085,140.5L141.638,140.5L175.851,140.5L184.404,140.5L192.957,140.5L218.617,140.5L227.17,140.5L235.723,140.5L244.277,140.5L252.83,140.5L261.383,140.5L269.936,140.5L278.489,140.5L287.043,140.5L295.596,140.5L406.787,140.5L415.34,140.5L423.894,140.5L432.447,140.5L441,140.5L441,141.15L432.447,141.15L423.894,141.15L415.34,143.331L406.787,141.583L295.596,141.722L287.043,143.641L278.489,144.507L269.936,140.98L261.383,140.748L252.83,143.409L244.277,140.778L235.723,141.382L227.17,140.84L218.617,140.593L192.957,140.918L184.404,140.98L175.851,140.562L141.638,141.305L133.085,141.397L124.532,142.914L115.979,140.871L107.426,142.542L98.872,140.748L39,140.562Z" fill="rgb(218, 54, 51)"/>
+                        <path d="M39,140.5L98.872,140.5L107.426,140.5L115.979,140.5L124.532,140.5L133.085,140.5L141.638,140.5L175.851,140.5L184.404,140.5L192.957,140.5L218.617,140.5L227.17,140.5L235.723,140.5L244.277,140.5L252.83,140.5L261.383,140.5L269.936,140.5L278.489,140.5L287.043,140.5L295.596,140.5L406.787,140.5L415.34,140.5L423.894,140.5L432.447,140.5L441,140.5L441,139.85L432.447,139.85L423.894,138.922L415.34,129.438L406.787,5L295.596,139.231L287.043,137.359L278.489,138.226L269.936,140.02L261.383,140.407L252.83,132.068L244.277,140.252L235.723,139.804L227.17,138.845L218.617,140.407L192.957,135.843L184.404,140.175L175.851,139.092L141.638,139.092L133.085,139.603L124.532,139.912L115.979,138.86L107.426,139.293L98.872,140.252L39,140.345Z" fill="rgb(63, 185, 80)"/>
+                        <path d="M39,140.5L98.872,140.5L107.426,140.5L115.979,140.5L124.532,140.5L133.085,140.5L141.638,140.5L175.851,140.5L184.404,140.5L192.957,140.5L218.617,140.5L227.17,140.5L235.723,140.5L244.277,140.5L252.83,140.5L261.383,140.5L269.936,140.5L278.489,140.5L287.043,140.5L295.596,140.5L406.787,140.5L415.34,140.5L423.894,140.5L432.447,140.5L441,140.5L441,141.15L432.447,141.15L423.894,141.15L415.34,143.331L406.787,141.583L295.596,141.722L287.043,143.641L278.489,144.507L269.936,140.98L261.383,140.748L252.83,143.409L244.277,140.778L235.723,141.382L227.17,140.84L218.617,140.593L192.957,140.918L184.404,140.98L175.851,140.562L141.638,141.305L133.085,141.397L124.532,142.914L115.979,140.871L107.426,142.403L98.872,140.748L39,140.639Z" fill="rgb(218, 54, 51)"/>
                     </svg>
                 </div>
             </section>
@@ -2578,7 +2578,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Jan 2026, 18:28:50 (timezone Asia/kolkata) with lowlighter/metrics@3.34.0</span>
+                <span>Last updated 27 Jan 2026, 21:04:39 (timezone Asia/kolkata) with lowlighter/metrics@3.34.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
