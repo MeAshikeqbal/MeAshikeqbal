@@ -24,11 +24,11 @@
 
 ### ⭐ Recent Stars
 
+- [21st-dev/1code](https://github.com/21st-dev/1code) - Best UI for Claude Code
 - [pshenok/server-survival](https://github.com/pshenok/server-survival) - Tower defense game that teaches cloud architecture. Build infrastructure, survive traffic, learn scaling.
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails&#43;&#43; all in one file
 - [Zie619/n8n-workflows](https://github.com/Zie619/n8n-workflows) - all of the workflows of n8n i could find (also from the site itself)
 - [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
-- [ankit12rajak/refresko-it-events](https://github.com/ankit12rajak/refresko-it-events) - 
 ### 📫 How to reach me:
   - Website   : <https://itsashik.dev>
   - Email     : <hello@itsashik.dev>
