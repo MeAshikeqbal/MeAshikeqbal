@@ -8,11 +8,11 @@
 
 ### 👷 Check out what I'm currently working on
 
+- [MeAshikeqbal/portfolio](https://github.com/MeAshikeqbal/portfolio) - My personal portfolio and blog
 - [MeAshikeqbal/yearbook](https://github.com/MeAshikeqbal/yearbook) - 
 - [MeAshikeqbal/MeetGrid](https://github.com/MeAshikeqbal/MeetGrid) - 
 - [MeAshikeqbal/mc-status-page](https://github.com/MeAshikeqbal/mc-status-page) - all in one status page for Minecraft Server
 - [MeAshikeqbal/tiny-link](https://github.com/MeAshikeqbal/tiny-link) - 
-- [MeAshikeqbal/portfolio](https://github.com/MeAshikeqbal/portfolio) - My personal portfolio and blog
 ### 🌱 My latest projects
 
 - [MeAshikeqbal/yearbook](https://github.com/MeAshikeqbal/yearbook) - 
